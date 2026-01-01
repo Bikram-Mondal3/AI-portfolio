@@ -1,4 +1,4 @@
-# 🚀 AI Portfolio | Interactive Web Experience
+🚀 AI Portfolio | Interactive Web Experience
 
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-powered%20by%20Google%20AI-yellow?logo=google)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
